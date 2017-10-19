@@ -29,11 +29,7 @@ if (kondisi == true) {
 SWITCH, biasanya digunakan untuk mencocokan suatu pilihan yang disimpan dalam variable.
 
 ```PHP
-<<<<<<< HEAD
-switch ($variable) {   
-=======
 switch ($variable) {
->>>>>>> 4c95e2a45656eae7a7755b8e1f8594f813d2417e
     case pilihan1:
     	//perintah
         break;

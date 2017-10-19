@@ -11,7 +11,7 @@ Struktur kontrol dibagi menjadi 2, yaitu struktur kontrol keputusan dan struktur
 ### Struktur Kontrol Keputusan
 
 #### IF
-IF, dijalankan untuk pengambilan keputusan, digunakan untuk memeriksa suatu blok code dijalankan atau tidak.
+IF, dijalankan untuk pengambilan keputusan, digunakan untuk memeriksa suatu perulangan dijalankan atau tidak.
 
 ```PHP
 if (kondisi == true) {
@@ -29,7 +29,7 @@ if (kondisi == true) {
 SWITCH, biasanya digunakan untuk mencocokan suatu pilihan yang disimpan dalam variable.
 
 ```PHP
-switch ($variable) {
+switch ($variable) {   
 	case pilihan1:
     	//perintah
         break;

@@ -30,7 +30,7 @@ SWITCH, biasanya digunakan untuk mencocokan suatu pilihan yang disimpan dalam va
 
 ```PHP
 switch ($variable) {
-	case pilihan1:
+    case pilihan1:
     	//perintah
         break;
     case pilihan2:
